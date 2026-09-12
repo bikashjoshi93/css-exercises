@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: lightsalmon;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-number.bigger {
+    font-size: 32px;
+}
+
+#number-4 {
+    color: green;
+    font-size: 36px;
+}
